@@ -225,3 +225,8 @@ dmypy.json
 .prof
 
 # End of https://www.toptal.com/developers/gitignore/api/python,pycharm+iml,dotenv
+
+# Custom
+config/config.py
+config/emojis.yml
+config/logging.yml

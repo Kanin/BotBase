@@ -4,7 +4,15 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+asyncpg = "*"
 discord-py="*"
+coloredlogs="*"
+pyyaml = "*"
+python-dotenv = "*"
+dictor = "*"
+sentry-sdk = "*"
+psutil = "*"
+aiohttp-jinja2 = "*"
 
 [dev-packages]
 
